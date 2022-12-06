@@ -9,7 +9,7 @@ homepage:
   text: cs.cmu.edu/~woden
 ---
 
-# Wode **Ni**
+# Daniel
 
 <!--
 include contact information from the front matter
@@ -21,9 +21,9 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## Education
+## 教育经历
 
-### **Carnegie Mellon University** `2018.9 -`
+### **石家庄学院** `2018.9 -`
 
 ```
 Pittsburgh, PA
